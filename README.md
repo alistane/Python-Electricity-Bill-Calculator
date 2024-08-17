@@ -1,5 +1,5 @@
 # Python-Electricity-Bill-Calculator
- 
+Exe version of this program is available in dist function, give it a try!
 # Program's Working:
 1.This program first takes amperes and volts of appliances and then process it and converts it into total watts
 2. After Watt conversion, the program calculates kilowatt-hours 
