@@ -38,6 +38,7 @@ def main_solution(watts,unit_price):
 def prompt():
     print("Hi Welcome to Electricity Bill Calculator! Lets get started calculating your appliances wattage.\n Remember this program gives a rough estimate. Alright Lets start ")
     unit_price = float(input("First of all, what is unit price of electricity in your country? Just give numbers "))
+    print("Alright lets calculate wattage.")
     # call a separate method which will first calculate the wattages and then return
     method_wattage = calculate_wattage()
     cost = main_solution(method_wattage,unit_price)
