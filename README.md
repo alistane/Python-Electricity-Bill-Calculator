@@ -13,5 +13,4 @@
 5.The program will generate a rough estimate on how much your electricity will cost.
 
 # Currently this project is in development and you may encounter bugs. If possible drop me a message or contact me on my email.
-
-THANKS :D 
+Thank you for reading this and testing my program. Happy Coding!
